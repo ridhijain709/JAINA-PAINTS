@@ -1,0 +1,7 @@
+{
+  "name": "Jaina Paints & Sanitary",
+  "description": "A high-end retail digital catalog and portfolio for premium paints and luxury sanitaryware in Muzaffarnagar.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
